@@ -1,0 +1,1 @@
+This repository contains documentation of my coding studies at Microsoft Learning.

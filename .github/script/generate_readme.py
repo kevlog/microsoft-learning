@@ -23,7 +23,7 @@ def find_readme_structure():
                 modul = parts[1]
                 subjudul = parts[2]
                 url_path = rel_path.replace(" ", "%20").replace("\\", "/")
-                structure[materi][modul].append((subjudul, f"./{url_path}/README.md"))
+                structure[materi][modul].append((subjudul, f"./{url_path}/"))
 
     return structure
 

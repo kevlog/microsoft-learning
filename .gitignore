@@ -1,0 +1,39 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using npm packages or GitHub Actions with Node)
+node_modules/
+
+# Jekyll-related
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# VS Code
+.vscode/
+
+# Ruby environment (if using Bundler for Jekyll)
+.bundle/
+vendor/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment/config
+.env
+.env.*
+
+# Mac OS
+*.swp
+
+# Optional: ignore drafts (if you use _drafts folder)
+_drafts/
+
+#sample data
+sample-data/
+
+#notes
+note.txt

@@ -1,0 +1,7 @@
+title: Dokumentasi Microsoft Learning
+description: Kumpulan hasil belajar saya di Microsoft Learning.
+markdown: kramdown
+theme: jekyll-theme-hacker
+url: "https://hikvn.my.id"
+baseurl: "/microsoft-learning"
+image: /assets/images/study.png

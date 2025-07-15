@@ -1,0 +1,4 @@
+Para profesional data kini semakin diharapkan mampu bekerja dengan data dalam skala besar, serta melakukannya dengan cara yang aman, patuh terhadap regulasi, dan efisien secara biaya. Di saat yang sama, pihak bisnis ingin memanfaatkan data tersebut dengan lebih efektif dan cepat untuk mendukung pengambilan keputusan yang lebih baik.
+
+Microsoft Fabric adalah kumpulan alat dan layanan yang memungkinkan organisasi mewujudkan hal tersebut.
+Dalam modul ini, Anda telah mempelajari tentang penyimpanan OneLake milik Fabric, workload apa saja yang termasuk di dalamnya, serta bagaimana cara mengaktifkan dan menggunakan Fabric di organisasi Anda.

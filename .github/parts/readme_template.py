@@ -1,12 +1,17 @@
 HEADER = """# 📘 Microsoft Data Analytics Learning Repository
 
-Selamat datang di repositori pembelajaran Microsoft Data Analytics.  
-Berikut daftar materi yang tersedia:
+Repositori ini berisi materi pembelajaran Microsoft Data Analytics berdasarkan struktur berikut:
+
+- **Materi:** Topik besar seperti Power BI atau Microsoft Fabric.
+- **Modul:** Unit pembelajaran dalam satu materi.
+- **Learning Path:** Bagian-bagian kecil dalam modul, masing-masing memiliki penjelasan di file README.
+
+Berikut daftar isi otomatis:
 """
 
 FOOTER = """---
 
-> ⚠️ *Materi ini digunakan untuk keperluan belajar pribadi.  
-> Sumber materi berasal dari Microsoft Learn.*
+> ⚠️ *Disclaimer: Materi ini digunakan untuk keperluan pembelajaran pribadi.  
+> Sumber utama berasal dari [Microsoft Learn](https://learn.microsoft.com/).*
 
 """
